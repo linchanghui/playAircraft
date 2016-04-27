@@ -74,11 +74,12 @@
     <Compile Include="Assets\Done\Done_Scripts\Done_WeaponController.cs" />
     <Compile Include="Assets\Scripts\BGController.cs" />
     <Compile Include="Assets\Scripts\DestoryByBoundary.cs" />
+    <Compile Include="Assets\Scripts\DestroyByContact.cs" />
     <Compile Include="Assets\Scripts\DestroyByTime.cs" />
     <Compile Include="Assets\Scripts\GameController.cs" />
     <Compile Include="Assets\Scripts\Mover.cs" />
     <Compile Include="Assets\Scripts\PlayController.cs" />
-    <Compile Include="Assets\Scripts\RandomRotator.cs" />
+    <Compile Include="Assets\Scripts\WeaponController.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
